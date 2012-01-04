@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-kernel:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-lucene-index:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-core:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graph-algo:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-udc:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graph-matching:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-cypher:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.9.0-1" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-jmx:1.6.M02" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-spatial:0.7-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graph-collections:1.6-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-main:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-api:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: com.vividsolutions:jts:1.12" level="project" />
+    <orderEntry type="library" name="Maven: xerces:xercesImpl:2.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-referencing:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: java3d:vecmath:1.3.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.5.4" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-metadata:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-opengis:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jsr-275:jsr-275:1.0-beta-2" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_core:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: jdom:jdom:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-shapefile:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-data:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-process:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-coverage:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_imageio:1.1" level="project" />
+    <orderEntry type="library" name="Maven: it.geosolutions.imageio-ext:imageio-ext-tiff:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: it.geosolutions.imageio-ext:imageio-ext-utilities:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_codec:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jaitools:jt-zonalstats:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jaitools:jt-utils:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-cql:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-render:8.0-M2" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.tinkerpop.gremlin:gremlin-groovy:1.4" level="project" />
+    <orderEntry type="library" name="Maven: com.tinkerpop.gremlin:gremlin-java:1.4" level="project" />
+    <orderEntry type="library" name="Maven: com.tinkerpop.blueprints:blueprints-core:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jettison:jettison:1.3" level="project" />
+    <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.8.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-asl:1.8.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.8.5" level="project" />
+    <orderEntry type="library" name="Maven: com.tinkerpop:pipes:0.9" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy:1.8.4" level="project" />
+    <orderEntry type="library" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-commons:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-tree:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-util:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-analysis:3.2" level="project" />
+    <orderEntry type="library" name="Maven: org.fusesource.jansi:jansi:1.5" level="project" />
+    <orderEntry type="library" name="Maven: jline:jline:0.9.94" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gpsdings.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
